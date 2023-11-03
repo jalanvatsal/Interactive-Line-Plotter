@@ -1,4 +1,4 @@
-# Interactive-Line-Plotter (Project Specification)
+# Interactive-Line-Plotter (Project Specification CS31 UCLA)
 
 Introduction
 You have been hired by Retro Images to write a program allowing an artist to draw lines to produce amazing computer graphics. The software works by having the artist type a series of drawing commands that dictate what lines it should plot on the screen. (Retro Images thinks having the artists use a retro user interface will enhance their creativity.)
